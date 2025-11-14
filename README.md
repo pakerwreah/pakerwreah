@@ -2,7 +2,7 @@
 
 📆 I’m actively working on [Calendr](https://github.com/pakerwreah/Calendr) (macOS menu bar)
 
-💼 Open to iOS or React Native developer opportunities
+💼 Open to iOS, macOS, React Native developer opportunities
 
 
 <!--
