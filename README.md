@@ -2,9 +2,6 @@
 
 📆 I’m actively working on [Calendr](https://github.com/pakerwreah/Calendr) (macOS menu bar)
 
-💼 Open to iOS, macOS, React Native developer opportunities
-
-
 <!--
 **pakerwreah/pakerwreah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
