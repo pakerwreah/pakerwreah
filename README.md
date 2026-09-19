@@ -1,4 +1,4 @@
-![pakerwreah's Stats](https://github-readme-stats.vercel.app/api?username=pakerwreah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![pakerwreah's Stats](https://github-stats-extended.vercel.app/api?username=pakerwreah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 📆 I’m actively working on [Calendr](https://github.com/pakerwreah/Calendr) (macOS menu bar)
 
