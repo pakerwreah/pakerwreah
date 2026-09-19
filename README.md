@@ -1,4 +1,11 @@
-![pakerwreah's Stats](https://github-stats-extended.vercel.app/api?username=pakerwreah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<picture>
+	<source
+	  srcset="https://github-stats-extended.vercel.app/api?username=pakerwreah&theme=dark&text_color=eeeeee&border_color=3d444d&bg_color=00000000&hide_rank=true&hide_title=true&show_icons=true&hide_border=false&count_private=true"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<img src="https://github-stats-extended.vercel.app/api?username=pakerwreah&theme=buefy&text_color=333333&hide_rank=true&hide_title=true&show_icons=true&hide_border=false&count_private=true" />
+</picture>
+<br><br>
 
 📆 I’m actively working on [Calendr](https://github.com/pakerwreah/Calendr) (macOS menu bar)
 
